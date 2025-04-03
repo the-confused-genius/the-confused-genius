@@ -46,12 +46,14 @@ Here are some ideas to get you started:
   ---
 
 ### :man_technologist: About Me :
-I am a student, majoring in Computer Engineering from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I am a Machine learning and data science enthusiast.
+I am a Firmware and robotics developer from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: In my freetime I learn about design concepts in low level.
 
-- :seedling: Exploring and creating projects using opencv and computer vision.
+- :seedling: Exploring and creating projects hardware projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I freelance too, I can create custom PCBs and Automate workflow.
+
+- 💭: There is not much code in my github as most of my code is closed source 😅 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-confused-genius)
 
@@ -83,5 +85,6 @@ I am a student, majoring in Computer Engineering from India. <img src="https://m
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-confused-genius&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=the-confused-genius)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-confused-genius)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &theme=prussian -->
